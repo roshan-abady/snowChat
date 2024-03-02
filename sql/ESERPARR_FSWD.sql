@@ -1,0 +1,3 @@
+create or replace TABLE ESERPARR_FSWD (
+	CLIENT_ID VARCHAR(16777216)
+);
