@@ -2,7 +2,7 @@
 __pycache__/
 secrets.toml
 .ruff_cache
-
+.snowchat_venv
 archived_logs/
 
 build/
